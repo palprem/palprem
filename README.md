@@ -9,12 +9,25 @@
 <!-- <img align="left"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d6552119730059.563339f76cc0b.gif"  /> -->
 
 <div align="center">
-<span align="center" >I am a Frontend Engineer with 4+ years of experience building scalable, high-performance web applications in healthcare domains (DHIS2, OpenMRS) across multiple countries. Expert in React.js, Next.js, and TypeScript, with strong focus on performance optimization, reusable architecture, and large-scale data handling. Experienced in micro-frontend architecture and delivering production-grade applications. </span>
+<span>I am a Frontend Engineer with 4+ years of experience building scalable, high-performance web applications in healthcare domains (DHIS2, OpenMRS) across multiple countries. Expert in React.js, Next.js, and TypeScript, with strong focus on performance optimization, reusable architecture, and large-scale data handling. Experienced in micro-frontend architecture and delivering production-grade applications. </span>
 
-<ul>
-<li>⭐ I work on Improving my skills in free time.</li>
-<li>😎 I am super positive and I always look forward to new adventures around Tech.</li>
-</ul>
+</div>
+
+###
+
+<div align="center">
+
+### Hi there 👋
+* 👂 My name is `Prem`
+* 👩 Pronouns: ...
+* 🔭 I’m currently working on ...
+* 🌱 I’m currently learning ...
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* ❤️ I love ...
+* ⚡ Fun fact: ...
 </div>
 
 ###
