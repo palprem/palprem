@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="163" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d6552119730059.563339f76cc0b.gif"  />
+<img align="left"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d6552119730059.563339f76cc0b.gif"  />
 
 ###
 
