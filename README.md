@@ -1,33 +1,32 @@
 <br clear="both">
 
-<h2 align="center"  >Hi, I'm [Prem Kumar Pal] 👋! and I'm a Web Developer from India.</h2>
+<h2 align="center"  >Hi, I'm {Prem Kumar Pal} 👋! and I'm a Web Developer from India.</h2>
 
 ###
 
 <br clear="both">
 
-<!-- <img align="left"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d6552119730059.563339f76cc0b.gif"  /> -->
-
-<div align="center">
-<span>I am a Frontend Engineer with 4+ years of experience building scalable, high-performance web applications in healthcare domains (DHIS2, OpenMRS) across multiple countries. Expert in React.js, Next.js, and TypeScript, with strong focus on performance optimization, reusable architecture, and large-scale data handling. Experienced in micro-frontend architecture and delivering production-grade applications. </span>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ###
 
-<div align="center">
+<div align="left">
 
 ### Hi there 👋
-* 👂 My name is `Prem`
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
+
+* 👂 My name is Prem Kumar Pal
+* 👨 I’m currently learning technology `Nest`, `Node`
+* 💼 I’m a Frontend Engineer with `4+` years of experience
+* 🔭 I’m currently working on `React.js`, `Next.js`, and scalable frontend applications
+* 🌱 I’m currently learning advanced `system design`, `micro-frontend architecture`, and `backend scalability`
+* 🤝 I’m looking to collaborate on open-source React and full-stack projects
+* 🤔 I’m looking for help with improving backend architecture and DevOps practices
+* 💬 Ask me about `React.js`, `Next.js`, `TypeScript`, `Redux Toolkit`, and `frontend performance optimization`
+* 📫 How to reach me: `prempal.tech@gmail.com`
+* ❤️ I love building clean UI, solving real-world problems, and learning new technologies
+* ⚡ Fun fact: I enjoy optimizing frontend performance and turning complex ideas into simple user experiences
 </div>
 
 ###
