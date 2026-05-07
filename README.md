@@ -1,14 +1,18 @@
 <br clear="both">
 
-<h2 align="center"  >Hi, I'm {Prem Kumar Pal} 👋! and I'm a Web Developer from India.</h2>
+<h2 align="center"  >👨‍💻 Who am i</h2>
 
 ###
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100">
+  <img 
+    src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" 
+    alt="Hey Everyone Banner"
+    style="max-width: 100%;"
+  />
+</a>
 
 ###
 
@@ -16,7 +20,7 @@
 
 ### Hi there 👋
 
-* 👂 My name is Prem Kumar Pal
+* 👂 My name is `{Prem Kumar Pal}`
 * 👨 I’m currently learning technology `Nest`, `Node`
 * 💼 I’m a Frontend Engineer with `4+` years of experience
 * 🔭 I’m currently working on `React.js`, `Next.js`, and scalable frontend applications
@@ -31,17 +35,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/prem-kumar-pal-13b6081b2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:prempal.tech@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/7635850020" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
 
 <br clear="both">
 
@@ -120,6 +113,22 @@
 ###
 
 <br clear="both">
+
+
+<h2 align="center">📬 Reach me on</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prem-kumar-pal-13b6081b2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:prempal.tech@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/7635850020" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
 <hr/>
 
 
