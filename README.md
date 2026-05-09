@@ -41,7 +41,7 @@
 * 🤝 I’m looking to collaborate on open-source React and full-stack projects
 * 🤔 I’m looking for help with improving backend architecture and DevOps practices
 * 💬 Ask me about `React.js`, `Next.js`, `TypeScript`, `Redux Toolkit`, and `frontend performance optimization`
-* 📫 How to reach me: `prempal.tech@gmail.com`
+* 📫 How to reach me: `prempal.tech@gmail.com` | 🌐 [Portfolio](https://portfolio-palprems-projects.vercel.app/)
 * ❤️ I love building clean UI, solving real-world problems, and learning new technologies
 * ⚡ Fun fact: I enjoy optimizing frontend performance and turning complex ideas into simple user experiences
 </div>
